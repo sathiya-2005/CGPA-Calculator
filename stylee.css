@@ -35,3 +35,17 @@ button {
 	text-align: center;
 	font-weight: bold;
 }
+input,
+button {
+	padding: 10px;
+	margin: 10px;
+	width: 200px;
+}
+
+button {
+	background-color: #012c3a;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
