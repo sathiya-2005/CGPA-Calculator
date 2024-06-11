@@ -1,0 +1,26 @@
+body {
+	font-family: Arial, sans-serif;
+    background-image: url(background.avif);
+}
+
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+div {
+	margin: 10px 0;
+}
+
+button {
+	display: block;
+	margin: 20px auto;
+}
+#semesterInputs{
+    text-align: center;
+	background-color: rgb(113, 223, 243);
+	border-radius: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
