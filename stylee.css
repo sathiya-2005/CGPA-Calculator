@@ -18,7 +18,7 @@ button {
 	margin: 20px auto;
 }
 #semesterInputs{
-    text-align: center;
+    	text-align: center;
 	background-color: rgb(113, 223, 243);
 	border-radius: 10px;
 	padding-top: 5px;
@@ -48,4 +48,5 @@ button {
 	border: none;
 	border-radius: 5px;
 	cursor: pointer;
+	
 }
